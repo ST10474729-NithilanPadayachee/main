@@ -1,7 +1,7 @@
 CHRISTOFFEL APP : READEME 
  React Native mobile application for managing a cafe menu with beverages, main meals, and desserts.
 Overview
-Christoffel App has a Barista Bliss menu management app features that allows users to browse menu items, add new items, filter by category, and view average prices. The app features a warm, inviting color scheme and an intuitive interface designed for cafe staff and customers.
+Christoffel App has a Barista Bliss menu management app features that allows users to browse menu items, add new items, filter by category, and view average prices. The app features a warm, inviting color scheme and an intuitive interface designed for cafe staff and customers
 Features
 
 Browse Menu Items: View all cafe items with images, descriptions, and prices
