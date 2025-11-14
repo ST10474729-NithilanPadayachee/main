@@ -50,6 +50,7 @@ Expo (recommended)
 
 >Refined Typography: Improved label styling with better color contrast and weight differentiation
 
+/Additionally, the form elements received significant attention in this update. Input fields now have consistent styling with proper spacing and visual feedback, making data entry more intuitive. The picker components were redesigned with better wrapping containers to ensure they display correctly across different device sizes. Button styling was also standardized with clear visual states, helping users understand what actions are available. These improvements collectively reduce user errors and create a more seamless experience when adding or managing menu items, ultimately making the app more efficient for daily cafe operations.
 >Added filtering functionality by category
 >Implemented average price calculation per category
 >Added ability to remove menu items
