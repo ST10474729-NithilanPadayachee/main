@@ -38,19 +38,22 @@ React Navigation (Stack Navigator)
 TypeScript
 Expo (recommended)
 
-Changelog
+Changelog ! (Note that that I had a mishap with my part 2 so it did not get marked so the change log includes all functions for the app)
 
+>Enhanced Styling: Updated color scheme with warmer tones (#f36a8c pink accents and #f3604f coral buttons)
 
-Enhanced Styling: Updated color scheme with warmer tones (#f36a8c pink accents and #f3604f coral buttons)
-Improved User Experience: Refined input fields with better border radius (12px) and consistent padding
-Better Visual Hierarchy: Updated header styling with increased font weight (900) for better readability
-Form Improvements: Enhanced picker components with proper wrapping and better visual feedback
-Refined Typography: Improved label styling with better color contrast and weight differentiation
+>Improved User Experience: Refined input fields with better border radius (12px) and consistent padding
 
-Added filtering functionality by category
-Implemented average price calculation per category
-Added ability to remove menu items
-Improved navigation structure
+>Better Visual Hierarchy: Updated header styling with increased font weight (900) for better readability
+
+>Form Improvements: Enhanced picker components with proper wrapping and better visual feedback
+
+>Refined Typography: Improved label styling with better color contrast and weight differentiation
+
+>Added filtering functionality by category
+>Implemented average price calculation per category
+>Added ability to remove menu items
+>Improved navigation structure
 
 Image References
 Alp, L. (2024) Crispy potato chips [Photograph]. Available at: https://unsplash.com/photos/premium_photo-1675871810408-db7e4e51b740 (Accessed: 13 November 2025)
