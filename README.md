@@ -10,22 +10,22 @@ Filter Menu: Filter items by category (Beverages, Main Meals, Desserts)
 Price Averages: Automatically calculates and displays average prices for each category
 Remove Items: Delete items from the menu as needed
 
-Pre-loaded Menu Items
+.Pre-loaded Menu Items
 The app comes with 10 pre-loaded items:
 Beverages
 
-Bubblegum Ice Latte (Miletski 2024)
+.Bubblegum Ice Latte (Miletski 2024)
 Citrus Maddrino (Fauzan 2024)
 Raspberry Milkshake (Maheshwari 2024)
 
-Main Meals
+.Main Meals
 
 Double Crunch Mutton Burger (Sadiq 2024)
 Large Crispy Chips (Alp 2024)
 Chicken Brochette (Parmar 2024)
 Vegetarian Pasta (Cook 2024)
 
-Desserts
+.Desserts
 
 Berry Cheesecake (Samad 2024)
 Pineapple Dream Cookie (Doan 2024)
@@ -38,7 +38,7 @@ React Navigation (Stack Navigator)
 TypeScript
 Expo (recommended)
 
-Changelog ! (Note that that I had a mishap with my part 2 so it did not get marked so the change log includes all functions for the app)
+.Changelog ! (Note that that I had a mishap with my part 2 so it did not get marked so the change log includes all functions for the app)
 
 >Enhanced Styling: Updated color scheme with warmer tones (#f36a8c pink accents and #f3604f coral buttons)
 
