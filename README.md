@@ -56,13 +56,13 @@ Changelog ! (Note that that I had a mishap with my part 2 so it did not get mark
 >Improved navigation structure
 
 Image References
-Alp, L. (2024) Crispy potato chips [Photograph]. Available at: https://unsplash.com/photos/premium_photo-1675871810408-db7e4e51b740 (Accessed: 13 November 2025)
-Cook, A. (2024) Vegetarian pasta dish [Photograph]. Available at: https://i.pinimg.com/1200x/8f/ec/bc/8fecbcf10fae02a5bad1bd6678f29237.jpg (Accessed: 13 November 2025)
-Doan, T. (2024) Pineapple cookie dessert [Photograph]. Available at: https://i.pinimg.com/1200x/b2/70/85/b2708593cac7ddc8b139bc9e230805b0.jpg (Accessed: 13 November 2025)
-Fauzan, M. (2024) Citrus beverage [Photograph]. Available at: https://i.pinimg.com/1200x/fa/50/ef/fa50ef040ae79423b74a414b6d30ec48.jpg (Accessed: 13 November 2025)
-Maheshwari, R. (2024) Raspberry milkshake [Photograph]. Available at: https://i.pinimg.com/1200x/4d/28/ba/4d28bad44b30898775fcf9509989d821.jpg (Accessed: 13 November 2025)
-Miletski, A. (2024) Bubblegum latte [Photograph]. Available at: https://i.pinimg.com/1200x/97/12/69/9712695c0eec71776701e3167b89a279.jpg (Accessed: 13 November 2025)
-Parmar, K. (2024) Grilled chicken brochette [Photograph]. Available at: https://i.pinimg.com/1200x/90/e5/58/90e558abed32694074a68c544742dcef.jpg (Accessed: 13 November 2025)
-Sadiq, A. (2024) Mutton burger [Photograph]. Available at: https://i.pinimg.com/736x/12/a7/ff/12a7ff2d3bd4c159db60da68d6d76971.jpg (Accessed: 13 November 2025)
-Samad, F. (2024) Berry cheesecake [Photograph]. Available at: https://i.pinimg.com/736x/98/f8/45/98f8450fbf8a4c3e704db41ec16dec30.jpg (Accessed: 13 November 2025)
-Sweets, D. (2024) Chocolate cake slice [Photograph]. Available at: https://i.pinimg.com/736x/4a/1e/57/4a1e57e5b111b108bce7d0a626ee9f48.jpg (Accessed: 13 November 2025)
+Alp, L. (2024) Crispy potato chips [Photograph]. Available at: https://unsplash.com/photos/premium_photo-1675871810408-db7e4e51b740 (Accessed: 11 November 2025)
+Cook, A. (2024) Vegetarian pasta dish [Photograph]. Available at: https://i.pinimg.com/1200x/8f/ec/bc/8fecbcf10fae02a5bad1bd6678f29237.jpg (Accessed: 11 November 2025)
+Doan, T. (2024) Pineapple cookie dessert [Photograph]. Available at: https://i.pinimg.com/1200x/b2/70/85/b2708593cac7ddc8b139bc9e230805b0.jpg (Accessed: 11 November 2025)
+Fauzan, M. (2024) Citrus beverage [Photograph]. Available at: https://i.pinimg.com/1200x/fa/50/ef/fa50ef040ae79423b74a414b6d30ec48.jpg (Accessed: 11 November 2025)
+Maheshwari, R. (2024) Raspberry milkshake [Photograph]. Available at: https://i.pinimg.com/1200x/4d/28/ba/4d28bad44b30898775fcf9509989d821.jpg (Accessed: 11 November 2025)
+Miletski, A. (2024) Bubblegum latte [Photograph]. Available at: https://i.pinimg.com/1200x/97/12/69/9712695c0eec71776701e3167b89a279.jpg (Accessed: 11 November 2025)
+Parmar, K. (2024) Grilled chicken brochette [Photograph]. Available at: https://i.pinimg.com/1200x/90/e5/58/90e558abed32694074a68c544742dcef.jpg (Accessed: 11 November 2025)
+Sadiq, A. (2024) Mutton burger [Photograph]. Available at: https://i.pinimg.com/736x/12/a7/ff/12a7ff2d3bd4c159db60da68d6d76971.jpg (Accessed: 11 November 2025)
+Samad, F. (2024) Berry cheesecake [Photograph]. Available at: https://i.pinimg.com/736x/98/f8/45/98f8450fbf8a4c3e704db41ec16dec30.jpg (Accessed: 11 November 2025)
+Sweets, D. (2024) Chocolate cake slice [Photograph]. Available at: https://i.pinimg.com/736x/4a/1e/57/4a1e57e5b111b108bce7d0a626ee9f48.jpg (Accessed: 11 November 2025)
